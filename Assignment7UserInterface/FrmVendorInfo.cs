@@ -25,6 +25,7 @@ namespace Assignment7UserInterface
         private void BtnExitApplication_Click(object sender, EventArgs e)
         {
             this.Close();
+            this.Dispose();
             Application.Exit();
         }
 
