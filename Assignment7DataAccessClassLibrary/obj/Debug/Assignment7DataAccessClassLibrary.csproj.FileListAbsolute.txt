@@ -1,0 +1,27 @@
+D:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\bin\Debug\Assignment7DataAccessClassLibrary.dll
+D:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\bin\Debug\Assignment7DataAccessClassLibrary.pdb
+D:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\obj\Debug\Assignment7DataAccessClassLibrary.csproj.CoreCompileInputs.cache
+D:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\obj\Debug\Assignment7DataAccessClassLibrary.dll
+D:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\obj\Debug\Assignment7DataAccessClassLibrary.pdb
+D:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\obj\Debug\Assignment7DataAccessClassLibrary.csproj.CopyComplete
+E:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\bin\Debug\Assignment7DataAccessClassLibrary.dll
+E:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\bin\Debug\Assignment7DataAccessClassLibrary.pdb
+E:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\bin\Debug\Newtonsoft.Json.dll
+E:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\bin\Debug\Newtonsoft.Json.xml
+E:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\obj\Debug\Assignment7DataAccessClassLibrary.csprojAssemblyReference.cache
+E:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\obj\Debug\Assignment7DataAccessClassLibrary.csproj.CoreCompileInputs.cache
+E:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\obj\Debug\Assignment7DataAccessClassLibrary.csproj.CopyComplete
+E:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\obj\Debug\Assignment7DataAccessClassLibrary.dll
+E:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\obj\Debug\Assignment7DataAccessClassLibrary.pdb
+D:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\obj\Debug\Assignment7DataAccessClassLibrary.csprojAssemblyReference.cache
+C:\Users\zscot\Desktop\Visual Programming II\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\bin\Debug\Assignment7DataAccessClassLibrary.dll
+C:\Users\zscot\Desktop\Visual Programming II\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\bin\Debug\Assignment7DataAccessClassLibrary.pdb
+C:\Users\zscot\Desktop\Visual Programming II\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zscot\Desktop\Visual Programming II\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zscot\Desktop\Visual Programming II\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\obj\Debug\Assignment7DataAccessClassLibrary.csprojAssemblyReference.cache
+C:\Users\zscot\Desktop\Visual Programming II\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\obj\Debug\Assignment7DataAccessClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\zscot\Desktop\Visual Programming II\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\obj\Debug\Assignment7DataAccessClassLibrary.csproj.CopyComplete
+C:\Users\zscot\Desktop\Visual Programming II\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\obj\Debug\Assignment7DataAccessClassLibrary.dll
+C:\Users\zscot\Desktop\Visual Programming II\Assignment7-ZacharyScott\Assignment7DataAccessClassLibrary\obj\Debug\Assignment7DataAccessClassLibrary.pdb

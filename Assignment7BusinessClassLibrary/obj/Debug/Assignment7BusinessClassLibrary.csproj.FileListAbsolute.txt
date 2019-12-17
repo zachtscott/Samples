@@ -1,0 +1,33 @@
+D:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\bin\Debug\Assignment7BusinessClassLibrary.dll
+D:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\bin\Debug\Assignment7BusinessClassLibrary.pdb
+D:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\obj\Debug\Assignment7BusinessClassLibrary.csprojAssemblyReference.cache
+D:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\obj\Debug\Assignment7BusinessClassLibrary.csproj.CoreCompileInputs.cache
+D:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\obj\Debug\Assignment7BusinessClassLibrary.dll
+D:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\obj\Debug\Assignment7BusinessClassLibrary.pdb
+D:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\bin\Debug\Assignment7DataAccessClassLibrary.dll
+D:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\bin\Debug\Assignment7DataAccessClassLibrary.pdb
+D:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\obj\Debug\Assignment7BusinessClassLibrary.csproj.CopyComplete
+E:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\obj\Debug\Assignment7BusinessClassLibrary.csprojAssemblyReference.cache
+E:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\obj\Debug\Assignment7BusinessClassLibrary.csproj.CoreCompileInputs.cache
+E:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\obj\Debug\Assignment7BusinessClassLibrary.dll
+E:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\obj\Debug\Assignment7BusinessClassLibrary.pdb
+E:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\bin\Debug\Assignment7BusinessClassLibrary.dll
+E:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\bin\Debug\Assignment7BusinessClassLibrary.pdb
+E:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\bin\Debug\Assignment7DataAccessClassLibrary.dll
+E:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\bin\Debug\Newtonsoft.Json.dll
+E:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\bin\Debug\Assignment7DataAccessClassLibrary.pdb
+E:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\bin\Debug\Newtonsoft.Json.xml
+E:\Assignment 7 -Zach Scott\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\obj\Debug\Assignment7BusinessClassLibrary.csproj.CopyComplete
+C:\Users\zscot\Desktop\Visual Programming II\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\bin\Debug\Assignment7BusinessClassLibrary.dll
+C:\Users\zscot\Desktop\Visual Programming II\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\bin\Debug\Assignment7BusinessClassLibrary.pdb
+C:\Users\zscot\Desktop\Visual Programming II\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\bin\Debug\Assignment7DataAccessClassLibrary.dll
+C:\Users\zscot\Desktop\Visual Programming II\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zscot\Desktop\Visual Programming II\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\bin\Debug\Assignment7DataAccessClassLibrary.pdb
+C:\Users\zscot\Desktop\Visual Programming II\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zscot\Desktop\Visual Programming II\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\obj\Debug\Assignment7BusinessClassLibrary.csprojAssemblyReference.cache
+C:\Users\zscot\Desktop\Visual Programming II\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\obj\Debug\Assignment7BusinessClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\zscot\Desktop\Visual Programming II\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\obj\Debug\Assignment7BusinessClassLibrary.csproj.CopyComplete
+C:\Users\zscot\Desktop\Visual Programming II\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\obj\Debug\Assignment7BusinessClassLibrary.dll
+C:\Users\zscot\Desktop\Visual Programming II\Assignment7-ZacharyScott\Assignment7BusinessClassLibrary\obj\Debug\Assignment7BusinessClassLibrary.pdb
