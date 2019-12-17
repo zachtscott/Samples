@@ -19,7 +19,7 @@ namespace Assignment7BusinessClassLibrary
         {
             try
             {
-                string url = "https://cisweb.mccoy.txstate.edu:4443/api/vendors";
+                string url = "[Edited Out For Security]";
                 string jsonData = vendorDataAccess.GetVendorsFromJsonAPI(url);
 
                 if (jsonData != null)
